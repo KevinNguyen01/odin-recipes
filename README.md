@@ -1,1 +1,2 @@
 # odin-recipes
+I am going to create a simple html site. Using only purely html I will create directories presenting three recipes with directions in order and a list of ingredients. These recipes will be random Disney recipes that I have chosen off the internet. 
